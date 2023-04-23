@@ -11,7 +11,7 @@ Para todos leitores que quiserem testar o site, sigam uma pequena legenda das cl
  - Livros de Ficção: são livros, geralmente, narrativos, por exemplo - romances.
 <br>
 Por fim, caso deseje testar este projeto, siga o link:
-<a href="https://kingkarpa.github.io/Projeto-Bibliota/">TESTE AQUI</a>
+<a href="https://kingkarpa.github.io/Projeto-Bibliota/">WIP</a>
 <br> <br>
 Caso esteja curioso: <br>
  - As tecnologias usadas no projeto foram: HTML; CSS; JS + DOM + FileReader; Bootstrap 5 <br>
