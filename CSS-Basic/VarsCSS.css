@@ -1,0 +1,10 @@
+:root{
+   --body-bg-color: rgba(13, 13, 13, .025);
+   --nav-bg-color: #0D0D0D;
+   --nav-text-color: #F2EA79;
+   --nav-text-trans: #D98014;
+   --nav-text-active: #D98014;
+   --btn-bg-trans: rgba(13, 13, 13, .95);
+}
+
+
