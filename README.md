@@ -12,7 +12,7 @@ Para todos leitores que quiserem testar o site, sigam uma pequena legenda das cl
 <br>
 Por fim, caso deseje testar este projeto, siga o link:
 <a href="https://kingkarpa.github.io/Projeto-Bibliota/">TESTE AQUI</a>
-#
-Caso esteja curioso:
- - As tecnologias usadas no projeto foram: HTML; CSS; JS + DOM + FileReader; Bootstrap 5
+<br> <br>
+Caso esteja curioso: <br>
+ - As tecnologias usadas no projeto foram: HTML; CSS; JS + DOM + FileReader; Bootstrap 5 <br>
  - O nome do projeto surgiu de um erro de digitação que achei engraçado
